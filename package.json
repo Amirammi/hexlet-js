@@ -1,26 +1,30 @@
 {
-    "name": "tmp",
-    "version": "1.0.0",
-    "description": "Мой первый проект на Хекслет",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Amirammi/hexlet-js.git"
-    },
-    "keywords": [
-        "git"
-    ],
-    "author": "Nataliia Petrushak",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/Amirammi/hexlet-js/issues"
-    },
-    "homepage": "https://github.com/Amirammi/hexlet-js#readme",
-    "type": "module",
-    "dependencies": {
-        "lodash": "^4.17.21"
-    }
+  "name": "tmp",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслет",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amirammi/hexlet-js.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Nataliia Petrushak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amirammi/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Amirammi/hexlet-js#readme",
+  "type": "module",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "prettier": "^2.3.2"
+  }
 }
